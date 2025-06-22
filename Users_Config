@@ -1,0 +1,16 @@
+{
+  "userDevices": {
+    "user_001": {
+      "deviceId": "da2ab5aa9adf9cea",
+      "status": "verfied"
+    },
+    "user_002": {
+      "deviceId": "device_2",
+      "status": "blocked"
+    },
+    "user_003": {
+      "deviceId": "device_3",
+      "status": "blocked"
+    }
+  }
+}
