@@ -1,16 +1,1 @@
-{
-  "userDevices": {
-    "user_001": {
-      "deviceId": "9edaa76a6f531c6b",
-      "status": "verified"
-    },
-    "user_002": {
-      "deviceId": "3f00be6cd9a23129",
-      "status": "verified"
-    },
-    "user_003": {
-      "deviceId": "21b7983695c10c76",
-      "status": "verified"
-    }
-  }
-}
+{"userDevices":{"user_001":{"deviceId":"9edaa76a6f531c6b","status":"verified"},"user_002":{"deviceId":"3f00be6cd9a23129","status":"verified"},"user_003":{"deviceId":"21b7983695c10c76","status":"verified"},"user_004":{"deviceId":"device_4","status":"verified"}}}
