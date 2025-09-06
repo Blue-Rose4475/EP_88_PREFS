@@ -1,1 +1,7 @@
-
+{
+  "userDevices": {
+    "user_001": {
+      "deviceId": "aaa",
+      "status": "verified"
+    }
+}
