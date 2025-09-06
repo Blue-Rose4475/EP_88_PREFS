@@ -3,5 +3,9 @@
     "user_001": {
       "deviceId": "aaa",
       "status": "verified"
+    },
+   "user_002": {
+      "deviceId": "aaaaa",
+      "status": "verified"
     }
 }
